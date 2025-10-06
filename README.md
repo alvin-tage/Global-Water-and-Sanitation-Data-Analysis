@@ -58,13 +58,17 @@ Alvin Febrian (R coding and visualization)
 
 📈 Example Visualizations
 
-Global trend of safe drinking water coverage (2007–2022)
+- Global trend of safe drinking water coverage (2007–2022)
+![alt text](Graph/clean_drinking_water_access_trend.png)
 
-Geographic map of 2022 clean water access
+- Geographic map of 2022 clean water access
+![alt text](Graph/clean_drinking_water_access_worldmap.png)
 
-Top 10 countries with highest and lowest access
+- Top 10 countries with highest and lowest access
+![alt text](Graph/highest_lowest_coverage.png)
 
 Correlation between clean water and sanitation
+![Graph/relationship_sanitation_drinkingwater.png](Graph/relationship_sanitation_drinkingwater.png)
 
 📜 License
 

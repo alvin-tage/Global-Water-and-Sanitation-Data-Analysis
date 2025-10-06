@@ -43,8 +43,8 @@ The objectives of this analysis are:
 
 ## 3.1 Reading Data
 ```{r}
-drinking_data <- read.csv("drinking_water_dataset.csv")
-sanitation_data <- read.csv("sanitation_dataset.csv")
+drinking_data <- read.csv("datasets/drinking_water_dataset.csv")
+sanitation_data <- read.csv("datasets/sanitation_dataset.csv")
 
 # Tampilkan ringkasan data
 summary(drinking_data)
